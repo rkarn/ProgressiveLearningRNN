@@ -4,8 +4,6 @@ This repository contains the source code to reproduce the results of our paper:
 
 `Karn, Rupesh Raj, Johann Knechtel, and Ozgur Sinanoglu. "Progressive Learning With Recurrent Neural Network for Sequence Classification." IEEE Transactions on Circuits and Systems II: Express Briefs (2023).` 
 
-Also submitted in  `Transactions in Circuit and System (TCAS-II)`  (Under Review).
-
 Download the formatted MNIST and Devnagri datasets from the following link. 
 
 Devnagri: https://drive.google.com/file/d/14ZiKWAhc_VYO-pL9Nfs3Zcv9-TVJyz-f/view?usp=sharing 
