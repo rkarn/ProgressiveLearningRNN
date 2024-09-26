@@ -12,4 +12,4 @@ MNIST: https://drive.google.com/file/d/13u7LiL5NyP8DlajGd1DzOGs5wEvBAYgI/view?us
 
 Install Raytune as per the documentation given at https://docs.ray.io/en/latest/tune/getting-started.html#tune-tutorial 
 
-Run the Jupyter notebook titled "MNIST Dataset task creation.ipynb" and "Devnagri Dataset task creation.ipynb" to create progressive tasks. Then run the remaining notebook to perform RNN training validation. 
+Run the Jupyter notebook titled `MNIST Dataset task creation.ipynb` and `Devnagri Dataset task creation.ipynb` to create progressive tasks. Then run the remaining notebook to perform RNN training validation. 
