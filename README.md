@@ -2,7 +2,7 @@
 
 This repository contains the source code to reproduce the results of our paper:
 
-`Karn, Rupesh Raj, Johann Knechtel, and Ozgur Sinanoglu "Progressive Learning with Recurrent Neural Network for Sequence Classification." In 2023 30th IEEE International Conference on Electronics, Circuits and Systems (ICECS), IEEE, 2023`. 
+`Karn, Rupesh Raj, Johann Knechtel, and Ozgur Sinanoglu. "Progressive Learning With Recurrent Neural Network for Sequence Classification." IEEE Transactions on Circuits and Systems II: Express Briefs (2023).` 
 
 Also submitted in  `Transactions in Circuit and System (TCAS-II)`  (Under Review).
 
